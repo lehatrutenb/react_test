@@ -1,0 +1,25 @@
+.main {
+    justify-content: center;
+    vertical-align: center;
+    align-self: center;
+    align-items: center;
+}
+
+label {
+    display: flex;
+    margin-top: 1rem
+}
+
+button {
+    color: white;
+    width: 20vw;
+    height: 5vh;
+    background-color: rgb(3, 188, 3);
+    border: 0px;
+    cursor: pointer;
+}
+
+div {
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+}
